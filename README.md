@@ -2,7 +2,7 @@
 Copy Mifare Classic Cards with rfid-rc522 module and arduino mega
 
 more Infos
-https://ebc81.wordpress.com/2014/11/16/rfid-arduino-copy-a-card-with-known-keys/
+https://www.ebctech.eu/rfid-arduino/
 
 
 Please support me
